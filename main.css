@@ -21,11 +21,11 @@
 .footer {
 	padding: 50px 100px;
 	position: absolute;
+	left: 0;
 	bottom: 0;
 	width: 100%;
 	font-size: 24px;
 	font-weight: 700;
 	color: #fff;
-	background: rgb(191, 192, 135);
-	text-align: center;
+	background: rgb(34, 172, 214);
 }
